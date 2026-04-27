@@ -10,13 +10,8 @@ MEMBERS: Anurag Kumar  590011480
          Bhavishya Pradhan 590013542
          Mohit Vats   590016048
 
-PROBLEM STATEMENT: Build a desktop application for managing menu items, customer orders, billing, and order history
-                   for a cafeteria or canteen.
-                   The system should support:
-                      • menu management
-                      • order placement
-                      • bill generation
-                      • order history
-                      • sales summary
+PROBLEM STATEMENT: Manual order taking and billing often leads to mistakes in item totals, order tracking, and
+daily sales records. The goal is to build a Java desktop system that manages orders and billing
+accurately.
 
 (INCOMPLETE)
