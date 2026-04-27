@@ -4,9 +4,13 @@ Project TITLE: BOOKaTABLE
 
 Project THEME: Cafeteria order and billing system
 
-PROJECT LEAD: Ritesh Singh  590017034
+PROJECT LEAD: 
+         
+         Ritesh Singh  590017034
 
-MEMBERS: Anurag Kumar  590011480
+MEMBERS: 
+
+         Anurag Kumar  590011480
          
          Bhavishya Pradhan 590013542
          
@@ -18,16 +22,16 @@ accurately.
 
 Programming Language
 
-Java — the entire project is built in Java
+         Java — the entire project is built in Java
 
 GUI / Frontend
 
-Java Swing — used to build all the windows and screens (login, menu, order placement, bill display)
+         Java Swing — used to build all the windows and screens (login, menu, order placement, bill display)
 
 Database Connectivity
 
-JDBC (Java Database Connectivity) — used to connect Java code to the database and run SQL queries
+         JDBC (Java Database Connectivity) — used to connect Java code to the database and run SQL queries
 
 Database
 
-MySQL — stores all data like menu items, orders, bills, and users
+         MySQL — stores all data like menu items, orders, bills, and users
