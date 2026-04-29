@@ -44,4 +44,6 @@ How to Run the Project
 5.	Step 5: Login with username: admin  /  password: admin123 (Admin) OR  username: operator  /  password: operator123 (Operator).
 6.	Step 6: Test the full workflow: Admin adds menu item → Operator places order → Bill is generated → Admin views daily summary.
 
-
+How to run java file:
+javac -cp .;mysql-connector-j.jar CafeteriaSystem.java
+java  -cp .;mysql-connector-j.jar CafeteriaSystem
