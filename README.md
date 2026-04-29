@@ -45,5 +45,7 @@ How to Run the Project
 6.	Step 6: Test the full workflow: Admin adds menu item → Operator places order → Bill is generated → Admin views daily summary.
 
 How to run java file:
-javac -cp .;mysql-connector-j.jar CafeteriaSystem.java
-java  -cp .;mysql-connector-j.jar CafeteriaSystem
+
+javac -cp .;mysql-connector-j.jar main.java
+
+java  -cp .;mysql-connector-j.jar main
