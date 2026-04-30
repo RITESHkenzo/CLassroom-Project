@@ -48,4 +48,4 @@ How to run java file:
 
 javac -cp .;mysql-connector-j.jar main.java
 
-java  -cp .;mysql-connector-j.jar main
+java -cp ".;mysql-connector-j-9.6.0.jar" main
