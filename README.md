@@ -1,6 +1,6 @@
 GROUP NAME: Code Rangers
 
-Project TITLE: BOOKaTABLE
+Project TITLE: BOOK-A-TABLE
 
 Project THEME: Cafeteria order and billing system
 
